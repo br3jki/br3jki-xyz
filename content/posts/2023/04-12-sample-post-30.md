@@ -1,5 +1,5 @@
 ---
-title: Sample post 30
+title: Kocham mimika
 description: Post description that will be visible in HTML meta description.
 date: 2023-04-12
 tags:
