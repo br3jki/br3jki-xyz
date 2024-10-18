@@ -18,7 +18,7 @@ module.exports = {
     // Production URL. Used by 'alwaysProductionUrl' filter.
     // If none is provided, relative paths will be used
     // and in some cases (like sitemap.xml) that is TOTALLY NOT what you want
-    url: process.env.URL || 'https://eleventy-bliss.vercel.app/',
+    url: process.env.URL || 'https://br3jki.xyz/',
     // Image used as a site logo. If none is provided, site title as text
     // will be displayed as fallback.
     // If you opt for text fallback, you may want to adjust
@@ -32,7 +32,7 @@ module.exports = {
     // with {% currentYear %} expression
     // so that you don't have to update the copyright year
     // in your footer by hand ever again :)
-    startYear: 2022,
+    startYear: 2024,
     // Generator information to display in <html> tag and the site footer.
     // Absolutely optional, but it will make Zach Leatherman happy :)
     // Also, it makes you eligible to be featured on Speedlify:
@@ -68,10 +68,10 @@ module.exports = {
   author: {
     // Your name. Self-explanatory I guess?
     // And you can use it anywhere on the site as {{ siteConfig.author.name }}
-    name: 'John Doe',
+    name: 'br3jki',
     // Your website URL. Used in the footer. Optional.
     // Doesn't have to be the same link as this site
-    url: 'https://eleventy-bliss.vercel.app/',
+    url: 'https://br3jki.xyz/',
     // Your fediverse links (e.g. Mastodon). You can provide more than one.
     // For the first account in this array your site will generate
     // .well-known/webfinger file for you so that you'll be searchable
